@@ -1,0 +1,11 @@
+RESUMEN UNIDAD 3
+
+Esta semana aprendimos sobre la importancia de los controladores de versiones. 
+
+En síntesis, son esenciales para poder trabajar en colaboración con otros desarrolladores
+sin perder la estructura o progreso principal. 
+
+Lo mas desafiante no es entender el concepto, sino el uso de la herramienta como tal. 
+Mi mayor desafío fue entender como se realizaban las pull y push requests, ya que no 
+estaba familiarizado con GIT, pero despues de un par de horas probando comandos logré 
+completar las actividades. 

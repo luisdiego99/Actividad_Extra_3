@@ -1,0 +1,11 @@
+RESUMEN UNIDAD 2
+
+Durante esta semana evaluamos conceptos mas avanzados. Tuvimos que crear un programa que 
+retornara el signo zodiacal en base al dia y mes ingresados. 
+
+Hubo muchos conceptos nuevos, como funciones, loops, uso de JS, uso de un editor de texto y 
+la implementación de la lógica de programacipon al memento de estructurar el programa en sí.
+
+No tuve tiempo de hacer la avtividad extra, pero sin duda la avtividad princial represento 
+un reto al momento de delimitar los límites entre un signo zodiacal y otro.
+

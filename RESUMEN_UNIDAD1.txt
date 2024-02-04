@@ -1,0 +1,27 @@
+
+RESUMEN UNIDAD 1
+
+NUMEROS BINARIOS
+
+Entender como funciona el código binario tiene un alto valor histórico, pues fue esto lo que dio inicio a las
+computadoras tal y como las conocemos. 
+
+Si bien es una buena práctica saber como se convierte el sistema binario a decimal y viceversa, hoy en dia 
+existen muchas herramientas que favorecen esta conversión, por lo cual es mas importante conocer su función, 
+que su conversión.
+
+LOGICA DE PROGRAMACION
+
+La programación es maravillosa porque se basa en la lógica. Siempre encontraremos la solución, pues es necesario
+entender que los humanos dictan el comportamiento de las computadoras y no al revés. La lógica de programación es 
+el pensamiento que nos ayuda a estructurar nuestros pensamientos y la forma en la que se comportaran los programas.
+
+Este es mi tema favorito de la semana y el que considero más importante, pues asienta las bases para poder aprender
+lenguajes de programación, frameworks y conceptos abstráctos. Básicamente, desarrollar nuestra lógica permíte 
+entendernos mejor con la computadora. 
+ALGORITMOS
+
+Son una serie de pasos sistemicos a seguir para cumplir una función y alcanzar un abjetivo. Es interesante como los
+humanos somos tan buenos para los algoritmos, que somos capaces de modificarlos u omitir pasos sin si quiera pensar
+en ello. Sin embargo, debemos ser metódicos al momento de pasar las instrucciones a una computadora, pues no tiene
+las mismas cualidades.
